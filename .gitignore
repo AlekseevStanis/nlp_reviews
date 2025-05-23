@@ -18,3 +18,5 @@ __pycache__/
 .env
 archive/
 data/raw/
+data/raw/dataset.csv
+catboost_info/
