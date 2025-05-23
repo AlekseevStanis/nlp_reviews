@@ -144,4 +144,4 @@ pytest tests/
 
 ## 👨‍💻 Author
 
-Built by [Your Name] as a lean alternative to LLMs for Russian-language classification in production environments.
+Built by Alekseev Stanisalv as a lean alternative to LLMs for Russian-language classification in production environments.
